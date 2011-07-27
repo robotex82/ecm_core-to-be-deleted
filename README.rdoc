@@ -1,0 +1,12 @@
+= Ecm
+
+== Introduction ==
+
+The Extensible Content Management System provides an easy way to manage and
+serve content.
+
+The EcmCore gem (engine) provides following following things:
+
+  * Admin interface
+
+This project rocks and uses MIT-LICENSE.
