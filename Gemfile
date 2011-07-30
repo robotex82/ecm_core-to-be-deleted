@@ -10,4 +10,5 @@ gem "rspec-rails", ">= 2.0.0.beta"
 # gem 'ruby-debug'
 # gem 'ruby-debug19'
 
+gem 'rdiscount'
 gem 'markerb'
