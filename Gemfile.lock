@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/robotex82/markerb.git
-  revision: 27ede40414b0764b180ed5d7f3c851be76b52a27
+  revision: 96a60d10dae0576c64d37344011a8a5622a51e02
   specs:
     markerb (0.1.0)
       redcarpet
