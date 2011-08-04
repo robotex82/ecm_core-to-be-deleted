@@ -11,4 +11,4 @@ gem "rspec-rails", ">= 2.0.0.beta"
 # gem 'ruby-debug19'
 
 gem 'rdiscount'
-gem 'markerb'
+gem 'markerb', :git => 'git://github.com/robotex82/markerb.git'

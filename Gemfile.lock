@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/robotex82/markerb.git
+  revision: df44919437065e9addbfe1c7407091ea113e2356
+  specs:
+    markerb (0.1.0)
+      redcarpet
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -50,8 +57,6 @@ GEM
       i18n (>= 0.4.0)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
-    markerb (0.1.0)
-      redcarpet
     mime-types (1.16)
     nokogiri (1.5.0)
     polyglot (0.3.1)
@@ -110,7 +115,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara (>= 0.4.0)
-  markerb
+  markerb!
   rails (= 3.0.9)
   rdiscount
   rspec-rails (>= 2.0.0.beta)
